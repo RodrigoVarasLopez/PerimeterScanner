@@ -4,7 +4,7 @@ import getopt, sys
 
 
 directory = "./files"
-output = "resultado.txt"
+output = "resoult.txt"
 nmap_type = "-sT "
 nmap_port = "--top-ports 100 -Pn"
 
