@@ -4,7 +4,7 @@ This Script searches for all public IPs whithin "./files" directory, analyse the
 To run the script you need to be in a unix environment python 3.8, nmap and whois installed:
 
 Command execution:
-python3.8 perimetralScanner.py
+python3.8 perimeterScanner.py
 
 Options:
 -v --verbose
